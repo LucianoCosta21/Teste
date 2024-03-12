@@ -19,6 +19,7 @@ R: O comando leia é utilizado quando se deseja obter informações do teclado d
 
 7) Defina o que é tipo de variável
 R: São variáveis que só aceitam apenas valores referentes ao seu tipo, ex : inteiro, real, cadeia , caracter e  lógico.
+R: São variáveis que só aceitam apenas valores referentes ao seu tipo, ex : inteiro, real, cadeia , caracter e  lógico.
 
 8) Explique o que são os tipos de variáveis do Portugol:
 a. cadeia - R: uma sequência de caracteres, geralmente utilizada para representar palavras, frases ou textos de um programa. 
