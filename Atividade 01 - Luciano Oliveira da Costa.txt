@@ -1,0 +1,43 @@
+1) O que é algoritmo? 
+R: é uma sequência finita de ações executáveis que visam obter uma solução para um determinado tipo de problema. 
+
+2) O que é um programa de computador?
+R: é um conjunto de instruções ou declarações a serem usadas direta ou indiretamente por um computador, a fim de obter um determinado resultado.
+
+3) O que é uma variável?
+R:  variável é simplesmente um espaço na memória o qual reservamos e damos um nome.
+
+4) O que é o Portugol Studio?
+R: O Portugol Studio é uma IDE de código aberta para códigos para aprender a programar, voltado para os iniciantes em programação que falam o idioma português.
+
+5) O que faz o comando escreva do Portugol?
+R: O comando escreva mostrar informações no console da IDE, ou seja, é um comando de saída de dados.
+
+6) O que faz o comando leia do Portugol?
+R: O comando leia é utilizado quando se deseja obter informações do teclado do computador, ou seja, é um comando de entrada de dados. Esse comando aguarda um valor a ser digitado e o atribui diretamente na variável.
+
+
+7) Defina o que é tipo de variável
+R: São variáveis que só aceitam apenas valores referentes ao seu tipo, ex : inteiro, real, cadeia , caracter e  lógico.
+
+8) Explique o que são os tipos de variáveis do Portugol:
+a. cadeia - R: uma sequência de caracteres, geralmente utilizada para representar palavras, frases ou textos de um programa. 
+b. inteiro - R: É uma variável que contém qualquer número que pertença ao conjunto dos números inteiros, sem casas decimais.
+c. real – R: É  uma variável que armazena um número real como uma fração decimal possivelmente infinita.
+d. logico – R: É aquela que contém um tipo de dado, usado em operações lógicas, que possui somente dois valores, verdadeiro e falso.
+   e. caracter - R: Compreende qualquer tipo de dados porém entende como texto.
+
+
+9) Dê exemplo:
+   a. de entrada de um algoritmo :
+   
+      escreva(""Informe a primeira nota:")
+      leia("nota1")
+      escreva("Informe a segunda nota:")
+      leia("nota2")
+
+   b. de processamento de um algoritmo:
+      media = nota1 + nota2/2
+
+   c. de saída de um algoritmo:
+      escreva("A média do aluno é:" + media)
