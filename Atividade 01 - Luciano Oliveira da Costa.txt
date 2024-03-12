@@ -1,5 +1,9 @@
 1) O que é algoritmo? 
 R: é uma sequência finita de ações executáveis que visam obter uma solução para um determinado tipo de problema. 
+1) O que é algoritmo? 
+R: é uma sequência finita de ações executáveis que visam obter uma solução para um determinado tipo de problema. 
+1) O que é algoritmo? 
+R: é uma sequência finita de ações executáveis que visam obter uma solução para um determinado tipo de problema. 
 
 2) O que é um programa de computador?
 R: é um conjunto de instruções ou declarações a serem usadas direta ou indiretamente por um computador, a fim de obter um determinado resultado.
